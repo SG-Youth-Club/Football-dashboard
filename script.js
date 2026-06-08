@@ -74,7 +74,7 @@ function exportPDF() {
 
     const opt = {
         margin: 0,
-        filename: "Spectrum-Youth-Club.pdf",
+        filename: "football.pdf",
         image: {
             type: "jpeg",
             quality: 1
